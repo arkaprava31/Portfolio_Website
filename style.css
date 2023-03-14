@@ -96,7 +96,7 @@ span{
     font-size: 1.8rem;
     letter-spacing: .2rem;
 }
-    
+  
 .social-media a{
     display: inline-flex;
     justify-content: center;
@@ -464,12 +464,7 @@ span{
         font-size: 35%;
     }   
 }
-@media (max-width: 290px){
-    html{
-        font-size: 30%;
-    }   
-}
-@media (max-width: 200px){
+@media (max-width: 250px){
     html{
         font-size: 25%;
     }   
